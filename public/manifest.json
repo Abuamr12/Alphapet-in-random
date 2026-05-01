@@ -1,0 +1,17 @@
+{
+  "name": "English AlphaQuest",
+  "short_name": "AlphaQuest",
+  "description": "Learn English Alphabet with fun sounds",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3845/3845812.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
